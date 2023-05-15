@@ -1,0 +1,29 @@
+{
+  "articles": [
+    {
+      "id": 2,
+      "title": "Second Article",
+      "content": "This is also an example."
+    },
+    {
+      "title": "Third Article",
+      "content": "Another example!",
+      "id": 3
+    },
+    {
+      "title": "ice cream",
+      "content": "I don't have ice cream.",
+      "id": 5
+    },
+    {
+      "title": "no ice cream",
+      "content": "I don't have ice cream.",
+      "id": 6
+    },
+    {
+      "title": "I want cake.",
+      "content": "It is in the fridge",
+      "id": 7
+    }
+  ]
+}
